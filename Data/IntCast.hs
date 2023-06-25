@@ -81,7 +81,6 @@ import           Foreign.C.Types
 
 -- non-Haskell 2010
 import           GHC.TypeLits
-import           Numeric.Natural (Natural)
 
 -- | (Kind) Meta-information about integral types.
 --
